@@ -27,7 +27,7 @@ export default class NavigationbarCircle extends React.Component {
       openIcon = <i className="fas fa-times"></i>,
       closeIcon = <i className="fas fa-bars"></i>,
       circleBackgroundColor = 'transparent',
-      navItems = navs
+      navItems = []
     } = this.props;
     return (<>
       <div className="circle-container" >
