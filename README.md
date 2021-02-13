@@ -1,6 +1,6 @@
 # navigationbar-circle
 
-demo: https://khotharish1207.github.io/navigationbar-circle/
+demo: https://navigationbar-circle.herokuapp.com/
 
 ## Getting Started
 
