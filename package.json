@@ -1,0 +1,36 @@
+{
+  "name": "navigationbar-circle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "build-watch": "babel src -d dist --watch"
+  },
+  "author": "Harish S Khot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khotharish1207/navigationbar-circle"
+  },
+  "bugs": {
+    "url": "https://github.com/khotharish1207/navigationbar-circle/issues"
+  },
+  "keywords": [
+    "react",
+    "navigationbar-circle",
+    "navigationbar circle",
+    "circle",
+    "circle navigationbar"
+  ],
+  "dependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.1"
+  }
+}
