@@ -1,5 +1,7 @@
 # navigationbar-circle
 
+demo: https://khotharish1207.github.io/navigationbar-circle/
+
 ## Getting Started
 
 ### Prerequisites
