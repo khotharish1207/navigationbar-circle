@@ -50,6 +50,8 @@ class App extends React.Component {
 | ----------- | ------ | :----------------: |
 | circleBackgroundColor      | string  | transparent |
 | navItems | array   |        []        |
+| openIcon | Element   |       <i className="fas fa-times"></i>         |
+| closeIcon | Element   |        <i className="fas fa-bars"></i>        |
 
 
 Navbar events
